@@ -8,9 +8,9 @@ namespace ConsoleAppTestProject
 {
     internal class Program
     {
-        const string API_KEY = "lC18561J1q78425R760Y727283g2P007";
-        const string SECRET_KEY = "7c795008Z0L46G32gx2p8M2B2831419_";
-        const string SESSION_TOKEN = "53710086";
+        const string API_KEY = "xxxx";
+        const string SECRET_KEY = "xxxx";
+        const string SESSION_TOKEN = "xxxx"; // Take from redirect url
         static async Task Main(string[] args)
         {
             try
